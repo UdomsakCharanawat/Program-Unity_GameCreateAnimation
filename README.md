@@ -1,6 +1,8 @@
 # Program-Unity_-
 โปรแกรมเกมให้เรียงรูปภาพค้างติดตาเป็นเฟรมเพื่อทดสอบการเรียงลำดับรูปภาพ เกมมีการจัดตารางลำดับจากคะแนน
 
+วิดีโอ -> https://drive.google.com/file/d/1CmwrxAQFP_X1Cyv7Et-tAlA_zbAtaLfG/view?usp=sharing
+
 Link download for play >>> [GameCreateAnimation](https://drive.google.com/file/d/1SsbdUHtlA6iOdu3L31VEL156uT73Bf-6/view?usp=sharing)
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 170039" src="https://github.com/user-attachments/assets/9e828c68-1d41-48b4-ae22-50a875e3f5d3" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 170056" src="https://github.com/user-attachments/assets/50a1b215-f573-4e0e-82a6-46f94b1c6554" />
